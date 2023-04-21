@@ -1,0 +1,4 @@
+LUCA:Bacteria,Archaea,Eucarya
+Bacteria:Thermotoga,Bacteroides,Cyanobacteria,Purple bacteria,Gram positives,Green non sulfur bacteria
+Archaea:Pyrodictium,Thermoproteus,Thermococcales,Methanococcales,Methanobacteriales,Methanomicrobiales,extreme Halophiles
+Eucarya:Microsporidia,Flagellates,Cillates,Plantae,Fungi,Animalia
